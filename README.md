@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### I'm Archana Tharammal, graduated B.Tech in Electronics and Communication Engineering from APJ Abdul Kalam Technological University.
+I’m currently learning Python full stack with a Data science course and  fostering my skills in Python programming, HTML, CSS, Data science, Bootstrap,...
 <!--
 **Archana-Tharammal/Archana-Tharammal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
